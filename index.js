@@ -6,9 +6,9 @@
  Öğrenci 3: Ahmet Turan 2009 (60,60,70)
 
  */
-let ogr1 = ["Yiğit", "Bilgi", 2010, [70, 60, 80]];
-let ogr2 = ["Ada", "Bilgi", 2012, [80, 80, 90]];
-let ogr3 = ["Ahmet", "Turan", 2009, [60, 60, 70]];
+// let ogr1 = ["Yiğit", "Bilgi", 2010, [70, 60, 80]];
+// let ogr2 = ["Ada", "Bilgi", 2012, [80, 80, 90]];
+// let ogr3 = ["Ahmet", "Turan", 2009, [60, 60, 70]];
 
 let ogrenciler = [ogr1, ogr2, ogr3];
 
