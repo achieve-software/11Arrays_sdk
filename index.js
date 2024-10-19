@@ -16,9 +16,9 @@ let yigit_yas = new Date().getFullYear() - ogrenciler[0][2];
 let ada_yas = new Date().getFullYear() - ogrenciler[1][2];
 let ahmet_yas = new Date().getFullYear() - ogrenciler[2][2];
 
-// console.log(yigit_yas);
-// console.log(ada_yas);
-// console.log(ahmet_yas);
+console.log(yigit_yas);
+console.log(ada_yas);
+console.log(ahmet_yas);
 
 let yigit_not = (
   (ogrenciler[0][3][0] + ogrenciler[0][3][1] + ogrenciler[0][3][2]) /
